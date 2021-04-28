@@ -1,0 +1,1 @@
+# hotels_opinions_rating
